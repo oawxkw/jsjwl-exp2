@@ -38,10 +38,9 @@ oawxkw
 
 ```
 dist/
-    hw2.exe
+    exp2.exe
 src/
-    hw2.go
-    hw2_test.go
+    exp2.go
 .gitignore
 README.md
 ```
