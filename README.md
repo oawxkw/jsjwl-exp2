@@ -46,5 +46,5 @@ src/
 README.md
 ```
 
-- The `dist/` directory contains all complied reports and pictures.
-- The `src/` directory contains all source code and source pictures.
+- The `dist/` directory contains all complied executable file.
+- The `src/` directory contains all source code.
